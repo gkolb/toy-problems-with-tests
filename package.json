@@ -1,0 +1,14 @@
+{
+  "name": "toy-problems-with-tests",
+  "version": "1.0.0",
+  "description": "Welcome to Toy Problems. This repository will be updated every morning with a new\r code challenge.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^22.4.3"
+  }
+}
